@@ -11,7 +11,7 @@ Este repositório possui os materiais de estudo, códigos e slides referentes a 
 
 **Objetivo do Encontro:**
 
-Introdução ao conceito de segurança da informação para ambientes IoT. Apresentação dos fundamentos de segurança como proteção de dados em trânsito e em armazenamento, autenticação e autorização da comunicação. Discussão sobre pertinência de cada uma das estratégias de proteção.
+Introdução ao conceito de segurança da informação para ambientes IoT. Apresentação dos fundamentos de segurança como proteção de dados em trânsito e em armazenamento, autenticação e autorização da comunicação. Discussão sobre perAlgum pilar do CIA Triad é violado com isso?tinência de cada uma das estratégias de proteção.
 
 <br/>
 
